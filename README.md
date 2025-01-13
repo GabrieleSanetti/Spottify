@@ -1,2 +1,2 @@
 # Spottify
-Spotify clone
+Spotify clone exercise

@@ -17,6 +17,10 @@ body {
     background-color: rgb(10, 10, 10);;
 }
 
+.illustrations {
+    width: 100%;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
